@@ -25,3 +25,4 @@ HANTER-XD_OFFICIAL=4041xd0xd2xd3xd5xduxd0xd_xdaxd2xd3xd5
 ###########
 HANTER-XD_OFFICIAL=4041n0n2n3n5nun0n_nan2n3n5
 HANTER-XD_OFFICIAL=4041n0n2n3n7nun0n_nan2n3n7
+HANTER-XD_OFFICIAL=4041xd0xd2xd3xd7xduxd0xd_xdaxd2xd3xd7
